@@ -4,7 +4,6 @@ Four ML projects applying classic and deep learning techniques to security
 and text-classification problems, built while working through Hack The Box's
 AI Red Teamer path (Module 2: Applications of AI in InfoSec).
 
-![badge](./badge.png)
 
 ## Projects
 
@@ -45,3 +44,8 @@ a new dataset.
 Based on Module 2 : [Applications of AI in InfoSec](https://academy.hackthebox.com/app/module/292) of the
  **AI Red Teamer Job Role Path** by **Hack The Box**,
 developed in collaboration with **Google**.
+
+<p align="center">
+  <img src="./badge.png" alt="Description" />
+</p>
+

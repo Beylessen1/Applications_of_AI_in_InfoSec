@@ -4,14 +4,16 @@ Four ML projects applying classic and deep learning techniques to security
 and text-classification problems, built while working through Hack The Box's
 AI Red Teamer path (Module 2: Applications of AI in InfoSec).
 
+![badge](./badge.png)
+
 ## Projects
 
 | Project | Technique | Dataset |
 |---|---|---|
-| [Spam Classification](./spam-classification) | Naive Bayes + CountVectorizer | SMS Spam Collection |
-| [Network Anomaly Detection](./network-anomaly-detection) | Random Forest (multi-class) | NSL-KDD |
-| [Malware Classification](./malware-classification) | CNN (ResNet-50, transfer learning) | Malimg |
-| [Sentiment Analysis](./sentiment-analysis) | Naive Bayes + TfidfVectorizer | IMDB Reviews|
+| [Spam Classification](https://github.com/Beylessen1/Applications_of_AI_in_InfoSec/tree/main/Spam_Classification) | Naive Bayes + CountVectorizer | SMS Spam Collection |
+| [Network Anomaly Detection](https://github.com/Beylessen1/Applications_of_AI_in_InfoSec/tree/main/Network_Anomaly_Detection) | Random Forest (multi-class) | NSL-KDD |
+| [Malware Classification](https://github.com/Beylessen1/Applications_of_AI_in_InfoSec/tree/main/Malware_Classification) | CNN (ResNet-50, transfer learning) | Malimg |
+| [Sentiment Analysis](https://github.com/Beylessen1/Applications_of_AI_in_InfoSec/tree/main/Sentiment_Analysis) | Naive Bayes + TfidfVectorizer | IMDB Reviews|
 
 Each folder contains a notebook and a short write-up covering approach and results.
 

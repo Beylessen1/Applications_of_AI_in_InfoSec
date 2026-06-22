@@ -1,0 +1,27 @@
+# Core data science
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+joblib
+
+# NLP
+nltk
+
+# Deep learning
+torch
+torchvision
+torchaudio
+
+# Dataset utilities
+split-folders
+requests
+
+# Jupyter
+jupyterlab
+notebook
+ipykernel

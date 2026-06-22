@@ -14,5 +14,5 @@ validation split for tuning and a separate test set for final evaluation.
 
 **Result:** ~99.5% weighted accuracy on the test set, though performance 
 on minority classes (notably Privilege Escalation, the rarest category) 
-was noticeably weaker — a good illustration of how class imbalance 
+was noticeably weaker : a good illustration of how class imbalance 
 shows up in practice even when aggregate accuracy looks strong.
